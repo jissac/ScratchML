@@ -4,3 +4,4 @@ Bite-sized machine learning models built from the ground up. Use these Jupyter n
 ## Installation
 `$ git clone https://github.com/jissac/ScratchML`     
 `cd ScratchML`
+## Logistic Regression
