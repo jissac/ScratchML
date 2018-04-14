@@ -8,4 +8,4 @@ Bite-sized machine learning models built from the ground up using Python and Num
 ## Cats vs. Dogs
 We'll first build a logistic regression model from scratch and use that in a binary classification problem - predicting if an image contains a cat or a dog.    
 
-We'll then expand the logistic regression model to build a 2-layer neural network from scratch and see how performane improves on the cats vs. dogs prediction.
+We'll then expand the logistic regression model to build a 2-layer neural network from scratch and see how performance improves on the cats vs. dogs prediction.
