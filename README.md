@@ -1,5 +1,7 @@
 # ScratchML
-Bite-sized machine learning models built from the ground up using Python and Numpy - with practical examples to solidfy the theory behind the models. Use these Jupyter notebooks as learning resources to discover the inner workings of essential predictive algorithms.
+Bite-sized machine learning models built from the ground up using Python and Numpy - with practical examples to solidfy the theory behind the models. Use these Jupyter notebooks as learning resources to discover the inner workings of essential predictive algorithms.     
+
+*This assumes you already have Python, Numpy, and Jupyter Notebooks successfully installed on your machine* 
 
 ## Installation
 `$ git clone https://github.com/jissac/ScratchML`     
