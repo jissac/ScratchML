@@ -12,6 +12,6 @@ Bite-sized machine learning models built from the ground up using Python and Num
 
 We'll first build a logistic regression model from scratch and use that in a binary classification problem - predicting if an image contains a cat or a dog (CatsvsDogs_Logistic_Regression.ipynb).      
 
-**Instructions**: After following the installation steps above, download the data from https://www.kaggle.com/c/dogs-vs-cats/data and put the training and test images into the ./datasets/train_cats_dogs and ./datasets/test_cats_dogs folders, respectively.
+**Instructions**: After following the installation steps above, download the train1.zip file from https://www.kaggle.com/c/dogs-vs-cats/data. The notebook will provide further instructions on how to divide the files into the training and test folders.
 
  
