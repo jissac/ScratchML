@@ -1,4 +1,6 @@
 # ScratchML
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Bite-sized machine learning models built from the ground up using Python and Numpy - with practical examples to solidfy the theory behind the models. Use these Jupyter notebooks as learning resources to discover the inner workings of essential predictive algorithms.     
 
 *This assumes you already have Python, Numpy, and Jupyter Notebooks successfully installed on your machine* 
