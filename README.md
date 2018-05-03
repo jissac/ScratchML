@@ -10,7 +10,7 @@ Bite-sized machine learning models built from the ground up using Python and Num
 `cd ScratchML`   
 
 ## Logistic Regression 
-We'll first build a logistic regression model from scratch and use that in a binary classification problem - predicting if an image contains a cat or a dog (CatsvsDogs_Logistic_Regression.ipynb).  
+We'll first build a logistic regression model from scratch and use that in a binary classification problem - predicting if an image contains a cat or a dog (CatsvsDogs_Logistic_Regression.ipynb). https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263
 
 ### Cats vs. Dogs
 <p align="center"> <img src="./images/cat.1.jpg">      <img src="/images/dog.10682.jpg" </p>    
