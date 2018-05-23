@@ -14,7 +14,7 @@ We'll first build a logistic regression model from scratch in Python and use it 
 
 ## CNN      
 We'll then extend the binary image classification task to a convolutional neural net.       
-[**Notebook**](https://colab.research.google.com/drive/1_MNtPHe4S2GPTgttEkMu3Q8bI3Qh8yML)         
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/CatsvsDogs_CNN.ipynb)         
 [**Blog Post**](https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea)     
 
 ## Datasets
