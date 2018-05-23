@@ -8,10 +8,14 @@ Bite-sized machine learning models built from the ground up using Python, Numpy,
 `cd ScratchML`   
 
 ## Logistic Regression 
-We'll first build a logistic regression model from scratch and use that in a binary classification problem - predicting if an image contains a cat or a dog **(CatsvsDogs_Logistic_Regression.ipynb)**. https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263    
+We'll first build a logistic regression model from scratch in Python and use it in a binary classification problem - predicting if an image contains a cat or a dog.      
+[**Jupyter Notebook**](CatsvsDogs_Logistic_Regression.ipynb).       
+[**Blog Post**](https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263)   
 
 ## CNN      
-We'll then extend the binary classification example to convolutional neural nets **(CatsvsDogs_LeNet5CNN.ipynb)**. https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea     
+We'll then extend the binary image classification task to a convolutional neural net.       
+[**Jupyter Notebook**]((CatsvsDogs_LeNet5CNN.ipynb)         
+[**Blog Post**](https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea)     
 
 ## Datasets
 Datasets used in this repository.
