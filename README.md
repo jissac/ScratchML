@@ -20,8 +20,9 @@ We'll then extend the binary image classification task to a convolutional neural
 ## Datasets
 Datasets used in this repository.
 ### Cats vs. Dogs
-<p align="center"> <img src="./images/cat.1.jpg">      <img src="/images/dog.10682.jpg" </p>    
+A subset of data from the Microsoft Research team [hosted by Kaggle](https://www.kaggle.com/c/dogs-vs-cats)  
+<p align="center"> <img src="./images/cat.1.jpg">   <img src="/images/dog.10682.jpg">   <img src>   </p>     
 
-**Instructions**: After following the installation steps above, download the train1.zip file from https://www.kaggle.com/c/dogs-vs-cats/data. The notebook will provide further instructions on how to divide the files into the training and test folders.
-
- 
+### Iris Dataset
+A [classic dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) comparing the structural variation of three related Iris flower species.
+<p align="center"> <img src="./images/setosa.jpg">   <img src="/images/versicolor.jpg">   <img src="/images/virginica.jpg">   </p>   
