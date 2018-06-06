@@ -18,7 +18,10 @@ Let's also implement logistic regression using Scikit-learn on the Iris dataset.
 ## CNN      
 We'll then extend the binary image cat vs. dog classification task to a convolutional neural net.       
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/CatsvsDogs_CNN.ipynb)         
-[**Blog Post**](https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea)     
+[**Blog Post**](https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea)
+
+## Support Vector Machines
+
 
 ## Datasets
 Datasets used in this repository.
