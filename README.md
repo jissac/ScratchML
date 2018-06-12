@@ -1,7 +1,7 @@
 # ScratchML
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Bite-sized machine learning models built from the ground up using Python, Numpy, Scikit-Learn, and TensorFlow - with practical examples to solidfy the theory behind the models. Use these Jupyter notebooks as learning resources to discover the inner workings of essential predictive algorithms.     
+Bite-sized machine learning models built using Python, Numpy, Scikit-Learn, and TensorFlow - with practical examples to solidfy the theory behind the models. Use these Jupyter notebooks as learning resources to discover the inner workings of essential predictive algorithms.     
 
 ## Installation
 `$ git clone https://github.com/jissac/ScratchML`     
@@ -22,7 +22,9 @@ We'll then extend the binary image cat vs. dog classification task to a CNN arch
 
 ### Support Vector Machines  
 We'll use the Iris dataset to understand how SVMs can be used for classification         
-[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)      
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)     
+
+### Random Forests
 
 ## Datasets
 Datasets used in this repository.
