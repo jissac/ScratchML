@@ -7,7 +7,7 @@ Bite-sized machine learning models built from the ground up using Python, Numpy,
 `$ git clone https://github.com/jissac/ScratchML`     
 `cd ScratchML`   
 
-## Logistic Regression 
+### Logistic Regression 
 We'll build a logistic regression model from scratch in Python and use it in a binary classification problem - predicting if an image contains a cat or a dog:            
 [**Notebook**](CatsvsDogs_Logistic_Regression.ipynb)       
 [**Blog Post**](https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263)   
@@ -15,13 +15,14 @@ We'll build a logistic regression model from scratch in Python and use it in a b
 Let's also implement logistic regression using Scikit-learn on the Iris dataset:     
 [**Notebook**](Iris_Logistic_Regression.ipynb) 
 
-## Convolutional Neural Net  
+### Convolutional Neural Net  
 We'll then extend the binary image cat vs. dog classification task to a CNN architecture:       
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/CatsvsDogs_CNN.ipynb)         
 [**Blog Post**](https://medium.com/@melodious/giving-sight-to-the-blind-understanding-convolutional-neural-nets-59dd2bf462ea)
 
-## Support Vector Machines
-
+### Support Vector Machines  
+We'll use the Iris dataset to understand how SVMs can be used for classification         
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)      
 
 ## Datasets
 Datasets used in this repository.
