@@ -33,9 +33,6 @@ We'll use the Iris dataset to understand how Decision Trees can be used for clas
 ## Datasets
 Datasets used in this repository.
 ### Cats vs. Dogs
-A subset of data from the Microsoft Research team [hosted by Kaggle](https://www.kaggle.com/c/dogs-vs-cats)  
-<p align="center"> <img src="./images/cat.1.jpg">   <img src="./images/dog.10682.jpg">  </p>     
-
+A subset of data from the Microsoft Research team [hosted by Kaggle](https://www.kaggle.com/c/dogs-vs-cats) with images that contain either cats or dogs.
 ### Iris Dataset
-A [classic dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) comparing the structural variation of three related Iris flower species.
-<p align="center"> <img src="./images/setosa.jpg">   <img src="./images/versicolor.jpg">   <img src="./images/virginica.jpg">   </p>   
+A [classic dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set) comparing the structural variation of three related Iris flower species - Iris-setosa, Iris-Versicolor, and Iris-Virginica.
