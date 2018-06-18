@@ -22,11 +22,14 @@ We'll then extend the binary image cat vs. dog classification task to a CNN arch
 
 ### Support Vector Machines  
 We'll use the Iris dataset to understand how SVMs can be used for classification         
-[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)     
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)       
+
+We'll extend the application of SVMs on the Gender Recognition by Voice dataset         
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Voice_SVM.ipynb)
 
 ### Decision Trees
-We'll use the Iris dataset to understand how Decision Trees can be used for classification         
-[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_DecisionTrees.ipynb)   
+We'll use the basic Iris dataset to understand how Decision Trees can be used for classification         
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_DecisionTrees.ipynb)       
 
 ### Random Forests
 
