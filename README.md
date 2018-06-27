@@ -36,7 +36,9 @@ We'll use the basic Iris dataset to understand how Decision Trees can be used fo
 ## Datasets
 Datasets used in this repository.
 ### Gender Recognition by Voice
-A collection of recorded voice samples from male and female speakers. [Hosted by Kaggle](https://www.kaggle.com/primaryobjects/voicegender)
+A collection of recorded voice samples from male and female speakers. [Hosted by Kaggle](https://www.kaggle.com/primaryobjects/voicegender)    
+### Fashion
+Articles of clothing classified into 10 labels. Provided by Zalando Research. [Hosted by Kaggle](https://www.kaggle.com/zalando-research/fashionmnist/home) 
 ### Cats vs. Dogs
 A subset of data from the Microsoft Research team [hosted by Kaggle](https://www.kaggle.com/c/dogs-vs-cats) with images that contain either cats or dogs.
 ### Iris Dataset
