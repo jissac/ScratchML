@@ -39,6 +39,8 @@ Datasets used in this repository.
 A collection of recorded voice samples from male and female speakers. [Hosted by Kaggle](https://www.kaggle.com/primaryobjects/voicegender)    
 ### Fashion
 Articles of clothing classified into 10 labels. Provided by Zalando Research. [Hosted by Kaggle](https://www.kaggle.com/zalando-research/fashionmnist/home) 
+### Chest X-Rays of Pneumonia
+Chest X-Ray images of patients with/without pneumonia. [Hosted by Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/home) 
 ### Cats vs. Dogs
 A subset of data from the Microsoft Research team [hosted by Kaggle](https://www.kaggle.com/c/dogs-vs-cats) with images that contain either cats or dogs.
 ### Iris Dataset
