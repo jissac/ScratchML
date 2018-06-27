@@ -10,10 +10,7 @@ Bite-sized machine learning models built using Python, Numpy, Scikit-Learn, and 
 ### Logistic Regression 
 We'll build a logistic regression model from scratch in Python and use it in a binary classification problem - predicting if an image contains a cat or a dog:            
 [**Notebook**](CatsvsDogs_Logistic_Regression.ipynb)       
-[**Blog Post**](https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263)   
-
-Let's also implement logistic regression using Scikit-learn on the Iris dataset:     
-[**Notebook**](Iris_Logistic_Regression.ipynb) 
+[**Blog Post**](https://medium.com/@melodious/understanding-deep-neural-networks-from-first-principles-logistic-regression-bd2f01c9e263) 
 
 ### Convolutional Neural Net  
 We'll then extend the binary image cat vs. dog classification task to a CNN architecture:       
@@ -25,7 +22,10 @@ We'll use the Iris dataset to understand how SVMs can be used for classification
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_SVM.ipynb)       
 
 We'll extend the application of SVMs on the Gender Recognition by Voice dataset         
-[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Voice_SVM.ipynb)
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Voice_SVM.ipynb)      
+
+Let's use SVMs for image classification on the Fashion dataset     
+[**Add Notebook**]
 
 ### Decision Trees
 We'll use the basic Iris dataset to understand how Decision Trees can be used for classification         
