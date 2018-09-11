@@ -37,6 +37,8 @@ We'll use the basic Iris dataset to understand how Decision Trees can be used fo
 ### Random Forests
 
 ### Generative Adversarial Networks
+We'll build a GAN trained on the Fashion dataset.      
+
 ## Datasets
 Datasets used in this repository.
 #### Gender Recognition by Voice
