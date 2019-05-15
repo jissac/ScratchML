@@ -35,6 +35,10 @@ We'll use the basic Iris dataset to understand how Decision Trees can be used fo
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_DecisionTrees.ipynb)       
 
 ### Random Forests
+Coming soon.
+
+### XGBoost
+Coming soon.
 
 ### Generative Adversarial Networks
 We'll build a GAN trained on the Fashion dataset.         
