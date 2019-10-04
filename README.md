@@ -1,6 +1,4 @@
 # ScratchML
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Bite-sized machine learning models built using Python, Numpy, Scikit-Learn, and TensorFlow - with practical examples to solidfy the theory behind the models. Use these Jupyter (and Colaboratory) notebooks as learning resources to discover the inner workings of essential predictive algorithms.     
 
 ## Installation
@@ -39,6 +37,8 @@ Coming soon.
 
 ### XGBoost
 Coming soon.
+
+### K-Means
 
 ### Generative Adversarial Networks
 We'll build a GAN trained on the Fashion dataset.         
