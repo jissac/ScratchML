@@ -39,6 +39,7 @@ Coming soon.
 Coming soon.
 
 ### K-Means and DBSCAN
+[**Blog Post**](https://medium.com/@melodious/clustering-birds-of-a-feather-flock-together-8ae84657b997)
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Clustering.ipynb)
 
 ### Generative Adversarial Networks
