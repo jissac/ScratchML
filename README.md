@@ -38,7 +38,8 @@ Coming soon.
 ### XGBoost
 Coming soon.
 
-### K-Means
+### K-Means and DBSCAN
+[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Clustering.ipynb)
 
 ### Generative Adversarial Networks
 We'll build a GAN trained on the Fashion dataset.         
