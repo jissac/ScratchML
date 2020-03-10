@@ -32,12 +32,6 @@ Let's use SVMs for image classification on the Fashion dataset
 We'll use the basic Iris dataset to understand how Decision Trees can be used for classification         
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Iris_DecisionTrees.ipynb)       
 
-### Random Forests
-Coming soon.
-
-### XGBoost
-Coming soon.
-
 ### K-Means and DBSCAN
 [**Blog Post**](https://medium.com/@melodious/clustering-birds-of-a-feather-flock-together-8ae84657b997)                      
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Clustering.ipynb)
