@@ -25,8 +25,6 @@ We'll use the Iris dataset to understand how SVMs can be used for classification
 We'll extend the application of SVMs on the Gender Recognition by Voice dataset         
 [**Notebook**](https://github.com/jissac/ScratchML/blob/master/Voice_SVM.ipynb)      
 
-Let's use SVMs for image classification on the Fashion dataset     
-[**Notebook**](https://github.com/jissac/ScratchML/blob/master/Fashion_SVM.ipynb)  
 
 ### Decision Trees
 We'll use the basic Iris dataset to understand how Decision Trees can be used for classification         
